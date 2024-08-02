@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\bin\Debug\net7.0\Daspro 11.exe
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\bin\Debug\net7.0\Daspro 11.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\bin\Debug\net7.0\Daspro 11.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\bin\Debug\net7.0\Daspro 11.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\bin\Debug\net7.0\Daspro 11.pdb
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\obj\Debug\net7.0\Daspro 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\obj\Debug\net7.0\Daspro 11.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\obj\Debug\net7.0\Daspro 11.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\obj\Debug\net7.0\Daspro 11.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\obj\Debug\net7.0\Daspro 11.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\obj\Debug\net7.0\refint\Daspro 11.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\obj\Debug\net7.0\Daspro 11.pdb
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\obj\Debug\net7.0\Daspro 11.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 11\obj\Debug\net7.0\ref\Daspro 11.dll
